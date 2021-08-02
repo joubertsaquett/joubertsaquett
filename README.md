@@ -15,13 +15,8 @@
   <img align="center" alt="Joubert-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
  
  **Tools**
- <img align="center" alt="Joubert-ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
- <img align="center" alt="Joubert-ohmyzsh" height="30" width="40" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">
- <img align="center" alt="Joubert-visual" height="30" width="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
- <img align="center" alt="Joubert-git" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
- <img align="center" alt="Joubert-jupyter-notebook" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
  <img align="center" alt="Joubert-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-|--|--|--|--|--|
+
 <br>
 </div>
   
